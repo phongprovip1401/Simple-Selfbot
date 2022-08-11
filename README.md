@@ -12,7 +12,7 @@
 $ git clone https://github.com/phongprovip1401/Simple-Selfbot
 
 # Go into the repository
-$ cd SelfbotDiscord
+$ cd Simple-Selfbot
 
 # Install the dependencies and start the selfbot
 $ npm install
