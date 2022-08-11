@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="assets_for_readme/milkita.png" alt="selfbot.png" width="80px" height="80px">
+  <img src="assets_for_readme/milkita.png" alt="milkia.png" width="80px" height="80px">
 </p>
 <h1 align="center">
   👑 Simple Selfbot !
