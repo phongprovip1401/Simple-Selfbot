@@ -31,6 +31,6 @@ $ npm start or node index.js
 | <img src="assets_for_readme/good.png" width="16" vertical-align="middle"/> OwO               |                   View OwO WIKI                         |    <font style="color: green; font-size: 16px;">✓</font>    |
 | <img src="assets_for_readme/good.png" width="16" vertical-align="middle"/> Simsimi               |                         talk to simsimi                          |   <font style="font-size: 16px;">✓</font>    |
 
-Credits: https://github.com/aiko-chan-ai/Selfbot-Example
+Mod again from: https://github.com/aiko-chan-ai/Selfbot-Example
 <img src="assets_for_readme/banner_selfbot.png" widht="25px" height="25px">
 
