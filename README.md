@@ -1,8 +1,8 @@
 <p align="center"> 
-  <img src="assets_for_readme/selfbot.png" alt="selfbot.png" width="80px" height="80px">
+  <img src="assets_for_readme/milkita.png" alt="selfbot.png" width="80px" height="80px">
 </p>
 <h1 align="center">
-  👑 Selfbot-Discord !
+  👑 Simple Selfbot !
 </h1>
 
 ## ⚡️ Download | Install 
