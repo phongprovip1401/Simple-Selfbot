@@ -23,7 +23,7 @@ $ npm start or node index.js
 | Type                                                                                     |                                  Description                                   |                            State                            |
 |------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
 | <img src="assets_for_readme/nice.png" width="16" vertical-align="middle"/> Music               |           Search and play music (play,stop,volume..v.)                           |    <font style="color: green; font-size: 16px;">✓</font>    |
-| <img src="assets_for_readme/nice.png" width="16" vertical-align="middle"/> Avatar               |                see your own or someone else's avatar                           |   <font style="font-size: 16px;">🔨</font>    |
+| <img src="assets_for_readme/nice.png" width="16" vertical-align="middle"/> Avatar               |                see your own or someone else's avatar                           |   <font style="font-size: 16px;">✓</font>    |
 | <img src="assets_for_readme/nice.png" width="16" vertical-align="middle"/> ChangeAvatar               |                  change bot's avatar                  |    <font style="color: green; font-size: 16px;">✓</font>    |
 | <img src="assets_for_readme/good.png" width="16" vertical-align="middle"/> Ping               |                       Shows user latency and discord                       |    <font style="color: green; font-size: 16px;">✓</font>    |
 | <img src="assets_for_readme/good.png" width="16" vertical-align="middle"/> Info               |                     see other people's information                       |    <font style="color: green; font-size: 16px;">✓</font>    |
@@ -31,5 +31,6 @@ $ npm start or node index.js
 | <img src="assets_for_readme/good.png" width="16" vertical-align="middle"/> OwO               |                   View OwO WIKI                         |    <font style="color: green; font-size: 16px;">✓</font>    |
 | <img src="assets_for_readme/good.png" width="16" vertical-align="middle"/> Simsimi               |                         talk to simsimi                          |   <font style="font-size: 16px;">✓</font>    |
 
+Credits: https://github.com/aiko-chan-ai/Selfbot-Example
 <img src="assets_for_readme/banner_selfbot.png" widht="25px" height="25px">
 
